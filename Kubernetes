@@ -1,0 +1,25 @@
+Automatic BinPacking -- Automatic Resource Allocate
+Service Discovery & Load Balancing -- Traffic Balancing
+Storage Orchestration -- Different types of storage solution | Native Cloud and On-Premesis
+Self Healing -- Infrastructure access -- node checkup
+Secret & Configuration Management -- security key manage
+Batch Execution -- to run task in background
+Horizontal Scaling -- ports , to create new ports
+Automatic Rollbacks & Rollouts -- blueprint architecture 
+
+Docker : Container Solution - to create images 
+Kubernestes : Container Orchestration Solution - to containzer container
+Docker Swarm : Container Orchestration solution
+
+PokeMon Go - With Kubernetes 
+- MapReduce & Cloud DataFlow For Scaling-Up
+- Java + Hadoop(map-reduce) + Google BigTable ==> Container - Easily Scalable.
+- Challenge : Horizontal Scaling + Vertical Scaling
+
+
+-- Kubernetes Architecture
+Master-Slave Architecture -- Kubernetes Master -- Image Registry (Node1, Node2, Node3, Node4)
+
+1) Master : controls the cluster and the nodes in it.
+2) Nodes : host the container inside.
+3) PODS : Are logical collection of containers which need to interact with each other of an Application
